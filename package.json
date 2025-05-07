@@ -40,3 +40,10 @@
     }
   }
 }
+{
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}
